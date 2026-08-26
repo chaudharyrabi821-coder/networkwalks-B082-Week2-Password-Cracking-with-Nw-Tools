@@ -1,4 +1,5 @@
-## 🔗 Navigation              **- [Back to README](README.md)**                     **- [Methodology](Methodology.md)**
+         
+**- [Back to README](README.md)**                     **- [Methodology](Methodology.md)**
 # 🔐 Password Cracking with Networkwalks Tools — Lab Result
 
 <p align="center">
