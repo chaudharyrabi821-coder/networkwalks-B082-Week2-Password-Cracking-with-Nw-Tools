@@ -381,6 +381,10 @@ The exercise demonstrates an important cybersecurity principle:
 
 Understanding password-cracking techniques allows cybersecurity professionals to better evaluate password strength, identify weaknesses, and recommend stronger security practices.
 
+## 📚 Documentation
+
+- [Methodology](methodology.md)
+- [Lab Results](lab-result.md)
 ---
 
 ### ⚠️ Disclaimer
