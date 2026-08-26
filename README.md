@@ -1,4 +1,4 @@
-# networkwalks-B082-Week2-Password-Cracking-with-Nw-Tools
+# networkwalks-B082-Week3-Password-Cracking-with-Nw-Tools
 # 🔐 Password Cracking with Networkwalks Tools
 
 ### Cybersecurity & Ethical Hacking — Project Module 2 · Week 3
