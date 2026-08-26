@@ -65,7 +65,7 @@ Both tools operate entirely through a web browser, so no additional software ins
 
 **Target File:**
 ```text
-My Locked PDF1.pdf
+My Locked PDF4.pdf
 ```
 
 The target is a password-protected PDF supplied specifically for this lab exercise.
@@ -290,13 +290,21 @@ password-cracking-with-networkwalks-tools/
 
 ```markdown
 ## Hash Extraction
-![Hash Calculator](screenshots/02-hash-calculator.png)
+![Hash Calculator]
+<img width="1076" height="876" alt="02-Hash-Calculator" src="https://github.com/user-attachments/assets/d3c77a35-7dbd-4704-824d-0a749bb74065" />
+
 
 ## Password Recovered
-![Password Cracker](screenshots/07-password-recovered.png)
+![Password Cracker]
+<img width="1072" height="633" alt="05-Password-Cracker" src="https://github.com/user-attachments/assets/31b49344-efc8-4b56-9ca0-3c19e1207eae" />
+
 
 ## PDF Successfully Opened
-![Unlocked PDF](screenshots/09-pdf-opened.png)
+![Unlocked PDF]
+<img width="837" height="232" alt="07-Password" src="https://github.com/user-attachments/assets/dadcaf5e-9653-4c74-b0fa-a23850b268b2" />
+<img width="1312" height="997" alt="08-Enter-Password" src="https://github.com/user-attachments/assets/9aac7f2a-8561-4b92-8586-23840b9bc995" />
+<img width="562" height="720" alt="09-Result" src="https://github.com/user-attachments/assets/2dd268e7-f2e0-4832-8f15-8df962ac4894" />
+
 ```
 
 ---
