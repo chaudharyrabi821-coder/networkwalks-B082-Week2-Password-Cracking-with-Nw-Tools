@@ -5,7 +5,7 @@ This file explains the methodology used in the project.
 ## 🔗 Navigation
 
 - [Back to README](README.md)
-- [Lab Results](lab-result.md)
+- [EVIDENCE](lab-Result.md)
 - # 📘 Methodology
 
 ### Password Security Assessment — Authorized Laboratory Environment
@@ -291,7 +291,7 @@ The methodology is designed so that the same assessment structure can be reprodu
 ## 🔗 Navigation
 
 - [Back to README](README.md)
-- [Lab Results](lab-result.md)
+- [EVIDENCE](lab-Result.md)
 ---
 
 ## 🚫 Disclaimer
