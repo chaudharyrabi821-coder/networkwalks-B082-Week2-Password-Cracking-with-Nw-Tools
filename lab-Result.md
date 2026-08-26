@@ -1,11 +1,4 @@
-# Lab Results
-
-This file contains the laboratory results and findings.
-
-## 🔗 Navigation
-
-- [Back to README](README.md)
-- [Methodology](Methodology.md)
+## 🔗 Navigation              **- [Back to README](README.md)**                     **- [Methodology](Methodology.md)**
 # 🔐 Password Cracking with Networkwalks Tools — Lab Result
 
 <p align="center">
