@@ -5,7 +5,7 @@ This file contains the laboratory results and findings.
 ## 🔗 Navigation
 
 - [Back to README](README.md)
-- [Methodology](methodology.md)
+- [Methodology](Methodology.md)
 # 🔐 Password Cracking with Networkwalks Tools — Lab Result
 
 <p align="center">
@@ -453,7 +453,7 @@ password-cracking-with-networkwalks-tools/
 | Document | Description |
 |---|---|
 | 📘 [`README.md`](README.md) | Project overview, objectives, tools, and general documentation |
-| 🧪 [`methodology.md`](methodology.md) | Methodology and technical testing approach |
+| 🧪 [`methodology.md`](Methodology.md) | Methodology and technical testing approach |
 | 📊 [`lab-Result.md`](lab-Result.md) | Practical evidence, findings, validation, and final result |
 
 ---
