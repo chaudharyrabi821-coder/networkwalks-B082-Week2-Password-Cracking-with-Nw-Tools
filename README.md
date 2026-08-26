@@ -400,7 +400,7 @@ Rabi Chaudhary
 
 Cybersecurity Professional B082
 
-LinkedIn:
+LinkedIn:https://lnkd.in/p/g7A4T3e4
 
 ## 📌 Project Information
 
