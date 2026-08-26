@@ -1,11 +1,5 @@
-# Methodology
 
-This file explains the methodology used in the project.
-
-## 🔗 Navigation
-
-- [Back to README](README.md)
-- [EVIDENCE](lab-Result.md)
+**- [Back to README](README.md)**                                       **- [EVIDENCE](lab-Result.md)**
 - # 📘 Methodology
 
 ### Password Security Assessment — Authorized Laboratory Environment
