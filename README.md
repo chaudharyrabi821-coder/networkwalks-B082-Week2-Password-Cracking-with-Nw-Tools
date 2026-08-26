@@ -383,8 +383,8 @@ Understanding password-cracking techniques allows cybersecurity professionals to
 
 ## 📚 Documentation
 
-- [Methodology](methodology.md)
-- [Lab Results](lab-result.md)
+- [Methodology](Methodology.md)
+- [Lab Results](lab-Result.md)
 ---
 
 ### ⚠️ Disclaimer
