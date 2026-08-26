@@ -192,7 +192,7 @@ At this point, the password-cracking lab is complete.
 | Hash Format | `$pdf$...` |
 | Hash Copy | ✅ Completed |
 | Password Cracking | ✅ Completed |
-| Password Recovered | `password1` |
+| Password Recovered | `1qaz2wsx` |
 | PDF Unlocking | ✅ Successful |
 | **Lab Status** | **✅ Completed** |
 
