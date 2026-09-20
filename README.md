@@ -291,12 +291,12 @@ password-cracking-with-networkwalks-tools/
 ```markdown
 ## Hash Extraction
 ![Hash Calculator]
-<img width="1076" height="876" alt="02-Hash-Calculator" src="https://github.com/user-attachments/assets/d3c77a35-7dbd-4704-824d-0a749bb74065" />
+<img width="1076" height="876" alt="image" src="https://github.com/user-attachments/assets/bf39ef37-33da-41c3-95d7-ecee509fb194" />
 
 
 ## Password Recovered
 ![Password Cracker]
-<img width="1072" height="633" alt="05-Password-Cracker" src="https://github.com/user-attachments/assets/31b49344-efc8-4b56-9ca0-3c19e1207eae" />
+
 
 
 ## PDF Successfully Opened
