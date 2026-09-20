@@ -302,6 +302,8 @@ password-cracking-with-networkwalks-tools/
 
 ## PDF Successfully Opened
 ![Unlocked PDF]
+<img width="837" height="232" alt="image" src="https://github.com/user-attachments/assets/808775a2-4586-449c-acef-15c6318cd755" />
+
 <img width="837" height="232" alt="07-Password" src="https://github.com/user-attachments/assets/dadcaf5e-9653-4c74-b0fa-a23850b268b2" />
 <img width="1312" height="997" alt="08-Enter-Password" src="https://github.com/user-attachments/assets/9aac7f2a-8561-4b92-8586-23840b9bc995" />
 <img width="562" height="720" alt="09-Result" src="https://github.com/user-attachments/assets/2dd268e7-f2e0-4832-8f15-8df962ac4894" />
