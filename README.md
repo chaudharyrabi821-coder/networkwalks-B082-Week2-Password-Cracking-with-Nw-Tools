@@ -296,6 +296,7 @@ password-cracking-with-networkwalks-tools/
 
 ## Password Recovered
 ![Password Cracker]
+<img width="1072" height="633" alt="image" src="https://github.com/user-attachments/assets/2d65c004-c4b5-45fc-9fbd-f5eb79dde48e" />
 
 
 
